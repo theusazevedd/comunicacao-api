@@ -1,0 +1,12 @@
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\infraestructure\entities\ComunicacaoEntity.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\infraestructure\repositories\ComunicacaoRepository.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\api\dto\NotificacaoRequestDTO.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\infraestructure\enums\ModoEnvioEnum.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\infraestructure\enums\StatusEnvioEnum.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\business\converter\ComunicacaoConverter.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\ComunicacaoApiApplication.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\api\dto\ComunicacaoOutDTO.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\api\ComunicacaoController.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\infraestructure\client\NotificacaoClient.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\api\dto\ComunicacaoInDTO.java
+C:\Javanauta\repositorios\comunicacao_api\comunicacao_api\src\main\java\com\luizalebs\comunicacao_api\business\service\ComunicacaoService.java
