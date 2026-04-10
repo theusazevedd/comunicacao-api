@@ -27,4 +27,5 @@ public class ComunicacaoInDTO implements Serializable {
     @JsonIgnore
     private StatusEnvioEnum statusEnvio;
 
+
 }

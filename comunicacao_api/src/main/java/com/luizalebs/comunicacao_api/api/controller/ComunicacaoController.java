@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/comunicacao")
 @Tag(name = "Comunicacao", description = "Controller para gerenciamento de comunicações")
-public class    ComunicacaoController {
+public class ComunicacaoController {
 
     private final ComunicacaoService service;
 

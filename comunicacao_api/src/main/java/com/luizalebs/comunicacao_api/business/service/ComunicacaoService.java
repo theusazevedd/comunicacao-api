@@ -29,7 +29,7 @@ public class ComunicacaoService {
 
     public ComunicacaoOutDTO agendarComunicacao(ComunicacaoInDTO dto) {
         if (Objects.isNull(dto)) {
-            throw new BadRequestException("DTO não pode ser nulo");
+            throw new BadRequestException("Erro ao gravar dados");
         }
         ComunicacaoEntity entity = converter.paraEntity(dto);
         entity.setStatusEnvio(StatusEnvioEnum.PENDENTE);
